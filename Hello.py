@@ -6,3 +6,8 @@ print("¡Hola Mundo!")
 print("Mi nombre es María Inés")
 print("Mi animal favorito es el zorro del desierto")
 print("Mi comida favorita es el pad thai")
+
+print("¡Hola Mundo!")
+print("Mi nombre es Juan Sebastian")
+print("Mi animal favorito es el Rinoceronte")
+print("Mi comida favorita es el Sushi")
