@@ -2,4 +2,5 @@
 #María Inés Velásquez
 #202224325
 
-print("Hello World")
+print("¡Hola Mundo!")
+print("Mi nombre es María Inés")
