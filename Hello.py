@@ -4,3 +4,4 @@
 
 print("¡Hola Mundo!")
 print("Mi nombre es María Inés")
+print("Mi animal favorito es el zorro del desierto")
